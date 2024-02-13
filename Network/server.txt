@@ -1,0 +1,5 @@
+port 5000
+pass 123456
+
+Take note of the FileZilla Server Administration Interface TLS fingerprints:
+== SHA256 certificate fingerprint: f8:4b:5f:18:94:26:ed:66:de:e2:e8:79:33:6c:3a:e7:4a:3a:21:4f:1e:04:cf:29:52:08:60:7c:bf:86:6b:6d
