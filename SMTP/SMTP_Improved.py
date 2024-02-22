@@ -30,3 +30,4 @@ try:
         server.quit()
 except:
     print('No SMTP service found.')
+    
